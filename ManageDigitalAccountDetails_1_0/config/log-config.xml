@@ -1,0 +1,19 @@
+
+  <!--
+
+	logFlag is an Enumeration of HEADER_ONLY, HEADER_AND_PAYLOAD, NO_LOG
+ 
+-->
+<lc:logConfig layer="ALSB" xmlns:lc="http://soa.o2.co.uk/config/LogConfig">	
+	
+	<lc:service name="ManageDigitalAccountDetails_1_0">
+	
+			
+	</lc:service>
+</lc:logConfig>
+
+  
+  
+  
+  
+ 

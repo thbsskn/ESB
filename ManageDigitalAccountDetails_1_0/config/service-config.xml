@@ -1,0 +1,8 @@
+<service-config-envelope>
+<service-config-data>
+<ManageDigitalAccountDetails_1_0>
+<AccountNumber>12345</AccountNumber>
+<BranchName>JPNagar</BranchName>
+</ManageDigitalAccountDetails_1_0>
+</service-config-data>
+</service-config-envelope>
